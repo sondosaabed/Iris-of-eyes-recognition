@@ -2,7 +2,7 @@
 
 If you find this notebook useful in your research or projects, please consider citing it. Proper citation helps me gain recognition for my work and allows others to follow and build upon it.
 
-**Sondos Aabed, _An End-to-end segmentation-free approach Iris Biometric Authentication_, Open Source (GitHub & Kaggle), May 2024. Available at: [https://github.com/sondosaabed/Iris-of-eyes-recognition](https://github.com/sondosaabed/Iris-of-eyes-recognition) and [https://www.kaggle.com/code/sondosaabed/iris-eye-recognition-endtoend-93](https://www.kaggle.com/code/sondosaabed/iris-eye-recognition-endtoend-93)**
+**Sondos Aabed, _An End-to-end segmentation-free approach Iris Biometric Authentication_, Open Source Contribution (GitHub & Kaggle), May 2024. Available at: [https://github.com/sondosaabed/Iris-of-eyes-recognition](https://github.com/sondosaabed/Iris-of-eyes-recognition) and [https://www.kaggle.com/code/sondosaabed/iris-eye-recognition-endtoend-93](https://www.kaggle.com/code/sondosaabed/iris-eye-recognition-endtoend-93)**
 <hr>
 
 # Iris-of-eyes-recognition
